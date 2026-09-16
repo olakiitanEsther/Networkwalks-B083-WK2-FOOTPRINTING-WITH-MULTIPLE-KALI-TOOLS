@@ -1,6 +1,6 @@
 # Penetration Testing Report: Footprinting & Network Scanning Phases
 
-**Pentester Name:** OLAGUNJU OLAKIITAN ESTHER *(Cybersecurity Professional)*  
+**Pentester Name:** OLAGUNJU OLAKIITAN ESTHER *(Cybersecurity intern)*  
 **Program/Batch:** B083-Networkwalks  
 **Date:** 15 September 2026  
 **Status:** Phase 1 & 2 Complete (Phases 3-5 In Progress)  
@@ -115,33 +115,55 @@ The risks below are observations from the footprinting and scanning exercises, n
 
 ---
 
-## 🖼️ 7. Evidence Appendix
-This section contains all corresponding screenshots and verification logs collected during the execution of the lab modules.
+<!-- --- -->
 
-### W2-PM1: Footprinting Screenshots
-#### Figure 1: WHOIS Domain Information Scan
-![WHOIS Evidence](whois-evidence.png)
+## 🖼️ 7. Appendix: Collected Evidence Gallery
+This final section serves as the repository's presentation slide of all verification logs and screen captures gathered during lab execution.
 
-#### Figure 2: WhatWeb Technology Fingerprint Scan
-![WhatWeb Evidence](whatweb-evidence.png)
+### W2-PM1: Footprinting Lab Logs
 
-#### Figure 3: Nslookup DNS Resolution Output
-![Nslookup Evidence](nslookup-evidence.png)
+<p align="left">
+  <strong>Figure 1: WHOIS Domain Information Scan</strong><br>
+  <img src="whois 1.jpeg" alt="WHOIS Evidence" width="600"><br><br>
 
-#### Figure 4: Curl HTTP Response Headers Target Output
-![Curl Evidence](curl-evidence.png)
+  <strong>Figure 2: WhatWeb Technology Fingerprint Scan</strong><br>
+  <img src="whatweb 2.jpeg" alt="WhatWeb Evidence" width="600"><br><br>
 
-#### Figure 5: Wafw00f Firewall Detection Verification
-![Wafw00f Evidence](wafw00f-evidence.png)
+  <strong>Figure 3: Nslookup DNS Resolution Output</strong><br>
+  <img src="nslookup 3.jpeg" alt="Nslookup Evidence" width="600"><br><br>
 
-#### Figure 6: DNSRecon Enumeration Record Output
-![DNSRecon Evidence](dnsrecon-evidence.png)
+ <strong>Figure 4: Curl HTTP Response Headers Target Output</strong><br>
+<img src="curl -I 4.jpeg" alt="Curl Evidence" width="600"><br><br>
+
+
+
+
+  <strong>Figure 5: Kali Operational Lab Work</strong><br>
+  <img src="5.jpeg" alt="Kali Workspace Evidence" width="600"><br><br>
+
+  <strong>Figure 6: Wafw00f Firewall Detection Verification</strong><br>
+  <img src="wafw00f 6.jpeg" alt="Wafw00f Evidence" width="600"><br><br>
+
+  <strong>Figure 7: DNSRecon Enumeration Record Output</strong><br>
+  <img src="dnsrecon 7.jpeg" alt="DNSRecon Evidence" width="600"><br><br>
+</p>
 
 ---
 
-### W2-PM5: Network Scanning Screenshots
-#### Figure 7: Zenmap Local Network Subnet Discovery
-![Zenmap Subnet Scan Evidence](zenmap-evidence.png)
+### W2-PM5: Network Scan Logs
 
-#### Figure 8: Zenmap Network Topology Tree Map View
-![Zenmap Topology Map Evidence](zenmap-topology-evidence.png)
+<p align="left">
+  <strong>Figure 8: Zenmap Local Network Subnet Discovery</strong><br>
+  <img src="zenmap 1.jpeg" alt="Zenmap Subnet Scan Evidence" width="600"><br><br>
+
+  <strong>Figure 9: Zenmap Network Topology Tree Map View</strong><br>
+  <img src="zenmap topology 2.jpeg" alt="Zenmap Topology Map Evidence" width="600">
+</p>
+
+---
+
+## 🔗 8. Project Details
+
+* **Program:** Cybersecurity at Networkwalks (Week 02)
+* **Author:** Olagunju Olakiitan Esther
+* **LinkedIn:** www.linkedin.com/in/olagunju-olakiitan
